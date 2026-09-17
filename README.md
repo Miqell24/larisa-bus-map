@@ -6,7 +6,7 @@ per street with the line numbers beside it, every stop with its name, the
 termini as badges. Same engine and same visual language as the rest of the
 family (see the city switcher in the panel).
 
-Live: https://miqell24.github.io/larisa-bus-map/
+Live: https://agcghub.github.io/larisa-bus-map/
 
 ## Where the data comes from
 
